@@ -1,1 +1,1 @@
-Standalone addon that adds a functional searchbarr to all profession tabs. Compatible with Leatrix plus.
+Standalone addon that adds a functional searchbar to all profession tabs. Compatible with Leatrix plus.
